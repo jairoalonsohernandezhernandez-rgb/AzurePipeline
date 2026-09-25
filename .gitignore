@@ -1,0 +1,28 @@
+# Archivos de estado local de Terraform (contienen credenciales e información sensible)
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+
+# Archivos de variables con datos sensibles o claves
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Directorio local de Terraform (módulos y proveedores descargados)
+.terraform/
+.terraform.lock.hcl
+
+# Llaves SSH y certificados
+*.pem
+*.pub
+*.key
+id_rsa
+id_ed25519
+
+# Archivos del sistema / IDE
+.DS_Store
+.vscode/
+.idea/

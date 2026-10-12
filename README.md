@@ -1,6 +1,6 @@
 # Azure Production-Ready Hub-Spoke Infrastructure with Terraform
 
-![Terraform Validation](https://github.com/TU_USUARIO/TU_REPOSITORIO/actions/workflows/terraform.yml/badge.svg)
+![Terraform Validation](https://github.com/jairoalonsohernandezhernandez-rgb/AzurePipeline/actions/workflows/terraform.yml/badge.svg)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235847b7.svg?style=flat&logo=terraform&logoColor=white)
 
